@@ -9,7 +9,7 @@ using ExercicioProjWeb23.Models;
 
 namespace ExercicioProjWeb23.Controllers
 {
-    public class CategoricosController : Controller
+    public class CategoricoosController : Controller
     {
         private EFContext context = new EFContext();
         // GET: Categoricos

@@ -202,7 +202,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Context\EFContext.cs" />
-    <Compile Include="Controllers\CategoricosController.cs" />
+    <Compile Include="Controllers\CategoricoosController.cs" />
     <Compile Include="Controllers\FabricantesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
